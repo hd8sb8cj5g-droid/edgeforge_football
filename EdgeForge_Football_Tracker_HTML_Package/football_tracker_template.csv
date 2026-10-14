@@ -1,3 +1,0 @@
-sport,event,market,selection,prob,predicted_at,event_start,model,book,entry_odds,closing_odds,closing_at,bet_placed,stake,result,settled_at,benchmark_prob,validation_type,notes
-NFL,Example Wolves vs Example Bears,Spread,Example Wolves -3.5,0.57,2026-10-09T15:00:00Z,2026-10-11T17:00:00Z,EF NFL v2,DraftKings,-110,,,,false,0,pending,,0.52,prospective,SYNTHETIC TEMPLATE - replace
-College Football,Example State vs Example Tech,Passing yards,Example QB over 250.5 yards,0.54,2026-10-09T15:00:00Z,2026-10-10T21:30:00Z,EF CFB v2,FanDuel,-115,,,,false,0,pending,,0.51,prospective,SYNTHETIC TEMPLATE - replace
